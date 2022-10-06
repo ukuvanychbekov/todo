@@ -4,4 +4,4 @@ from .models import Todo
 
 @admin.register(Todo)
 class AdminTodo(admin.ModelAdmin):
-    list_display = ('text', 'completed')
+    list_display = ('text', 'complited')

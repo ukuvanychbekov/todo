@@ -1,4 +1,5 @@
 venv/
 todoapp/__pycache__/
+todoapp/migrations/__pycache__/
 todo_proj/__pycache__/
 .idea/
